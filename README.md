@@ -11,6 +11,10 @@ This is a simple currency converter built with React + Vite And Tailwind CSS. It
 - **Swap Functionality**: Easily swap the "From" and "To" currencies.
 - **Responsive Design**: Works well on various screen sizes.
 
+## Screenshots
+
+![Currency Converter Screenshot](./src/assets/currency_converter.png)
+
 ## Live Demo
 
 Check out the live demo [here](https://currencytype-converter.netlify.app/).
