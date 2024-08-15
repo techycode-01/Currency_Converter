@@ -1,5 +1,3 @@
-Certainly! Here’s a comprehensive `README.md` file that includes sections for the currency converter app, navigation, installing dependencies, starting the server, usage, technologies used, and code overview, all formatted in code style:
-
 ```markdown
 # React Currency Converter
 
