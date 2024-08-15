@@ -13,7 +13,7 @@ This is a simple currency converter built with React + Vite And Tailwind CSS. It
 
 ## Live Demo
 
-Check out the live demo [here](https://your-live-demo-link.com).
+Check out the live demo [here](https://currencytype-converter.netlify.app/).
 
 ## Installation
 
@@ -45,7 +45,7 @@ To set up this app locally, follow these steps:
 
 5. **Open Your Browser**:
 
-   Navigate to `http://localhost:3000` to view the app.
+   Navigate to `http://localhost:5173` to view the app.
 
 ## Usage
 
