@@ -1,9 +1,9 @@
-```markdown
-# React Currency Converter
+
+# Currency Converter React App
 
 ## Overview
 
-This is a simple currency converter built with React. It allows users to convert between different currencies using live exchange rates. The app features a user-friendly interface and supports dynamic currency conversion with real-time data.
+This is a simple currency converter built with React + Vite And Tailwind CSS. It allows users to convert between different currencies using live exchange rates. The app features a user-friendly interface and supports dynamic currency conversion with real-time data.
 
 ## Features
 
@@ -23,25 +23,25 @@ To set up this app locally, follow these steps:
 
    ```bash
    git clone https://github.com/your-username/react-currency-converter.git
-   ```
+
 
 2. **Navigate to the Project Directory**:
 
    ```bash
    cd react-currency-converter
-   ```
+
 
 3. **Install Dependencies**:
 
    ```bash
    npm install
-   ```
+
 
 4. **Start the Development Server**:
 
    ```bash
    npm run dev
-   ```
+   
 
 5. **Open Your Browser**:
 
